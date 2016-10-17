@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/jcepeda/AndroidStudioProjects/ProyectoAndroid1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/jcepeda/AndroidStudioProjects/ProyectoAndroid1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_97535872e3b7c93b1e81d3ebca34a99736bc5f93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jcepeda/AndroidStudioProjects/ProyectoAndroid1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/jcepeda/AndroidStudioProjects/ProyectoAndroid1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_33bd0ef8dca9651257d3ab7afa9d87e050557710/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jcepeda/AndroidStudioProjects/ProyectoAndroid1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/jcepeda/AndroidStudioProjects/ProyectoAndroid1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d5f3e5ab1d88a3f1a349d3330849002df3bfeb95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jcepeda/AndroidStudioProjects/ProyectoAndroid1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/jcepeda/AndroidStudioProjects/ProyectoAndroid1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_0959d73c4047ebe9a22a9c9a2518e946981bfb62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jcepeda/AndroidStudioProjects/ProyectoAndroid1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/jcepeda/AndroidStudioProjects/ProyectoAndroid1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_7629b073ffbe0a69c75c3b11a67adfbd72d1b6e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jcepeda/AndroidStudioProjects/ProyectoAndroid1/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/jcepeda/AndroidStudioProjects/ProyectoAndroid1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_390a0efd0c8040d1a4097e7091760f7c4e6a3a19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jcepeda/AndroidStudioProjects/ProyectoAndroid1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3a4f72671100488bc12e9eb7811a36268c4f6407">
+        <dex dex="/home/jcepeda/AndroidStudioProjects/ProyectoAndroid1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_08f9b85349912ccc77b32113efcd08c65e8056ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jcepeda/AndroidStudioProjects/ProyectoAndroid1/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/jcepeda/AndroidStudioProjects/ProyectoAndroid1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_9b014767f3ef42731bc9b99e54c46bf1bc556713/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jcepeda/AndroidStudioProjects/ProyectoAndroid1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/jcepeda/AndroidStudioProjects/ProyectoAndroid1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d16d0d3ec72998f0caffa05b09731185e1acf5d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jcepeda/AndroidStudioProjects/ProyectoAndroid1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="de7d2d4ddd1d196c3d9904ac54ad101662253d45">
+        <dex dex="/home/jcepeda/AndroidStudioProjects/ProyectoAndroid1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9ae13b3e89ee3bd1837af73829bc9dd4f2404bb5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jcepeda/AndroidStudioProjects/ProyectoAndroid1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/jcepeda/AndroidStudioProjects/ProyectoAndroid1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_e6c142ac3ff9dad0e3241496fbf251c2adf9115e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jcepeda/AndroidStudioProjects/ProyectoAndroid1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/jcepeda/AndroidStudioProjects/ProyectoAndroid1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b7b5622a8f8854ec4085af763170897cebab1f28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jcepeda/AndroidStudioProjects/ProyectoAndroid1/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/jcepeda/AndroidStudioProjects/ProyectoAndroid1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_2bf1401da2664205be4adbd8e1fcf9b22486ace6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jcepeda/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/jcepeda/AndroidStudioProjects/ProyectoAndroid1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_618c4dde7703ff09e073b571a9d9f9f6ea12a3b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jcepeda/AndroidStudioProjects/ProyectoAndroid1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/jcepeda/AndroidStudioProjects/ProyectoAndroid1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a28bb39f65e199c31d42ca5570340c76b3b59784/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jcepeda/AndroidStudioProjects/ProyectoAndroid1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/jcepeda/AndroidStudioProjects/ProyectoAndroid1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_dc86670187202f499dc3718277bfa50b8a803606/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jcepeda/AndroidStudioProjects/ProyectoAndroid1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/jcepeda/AndroidStudioProjects/ProyectoAndroid1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_d1baba401f0bbf658b2628794492e5ecbfdac492/classes.dex" />
+    </item>
+
+</items>
